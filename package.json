@@ -1,0 +1,24 @@
+{
+  "name": "check-bitcoin-price-with-node-and-socketio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bashiru98/check-bitcoin-price-with-node-and-socketio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bashiru98/check-bitcoin-price-with-node-and-socketio/issues"
+  },
+  "homepage": "https://github.com/bashiru98/check-bitcoin-price-with-node-and-socketio#readme",
+  "dependencies": {
+    "nodemon": "^2.0.7",
+    "socket.io": "^4.0.1"
+  }
+}
